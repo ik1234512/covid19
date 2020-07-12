@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color: #ccffff;
+}
+header {
+    background-color: white ;
+    box-shadow: 0px 4px 6px whitesmoke;
+    padding: 20px;
+    text-align: center;
+    
+} 
+.green {
+    display: flex;
+    align-items: center;
+    flex-direction: row ;
+    padding: 50px;
+    justify-content: space-evenly;
+}
+.orange {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse ;
+    padding: 50px;
+    justify-content: space-evenly;
+
+}
+img {
+    height: 250px;
+    width: 500px;
+}
